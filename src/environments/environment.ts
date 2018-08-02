@@ -5,12 +5,12 @@
 export const environment = {
   production: false,
   firebaseConfig:{
-    apiKey: "AIzaSyBKYjqOCSkNgE2khQAnjx-AXwsO3HzlhKw",
-    authDomain: "soflodomestics-f808a.firebaseapp.com",
-    databaseURL: "https://soflodomestics-f808a.firebaseio.com",
-    projectId: "soflodomestics-f808a",
-    storageBucket: "soflodomestics-f808a.appspot.com",
-    messagingSenderId: "828676074960"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
   }
 };
 
